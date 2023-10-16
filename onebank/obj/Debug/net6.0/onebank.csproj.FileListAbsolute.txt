@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\bin\Debug\net6.0\onebank.exe
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\bin\Debug\net6.0\onebank.deps.json
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\bin\Debug\net6.0\onebank.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\bin\Debug\net6.0\onebank.dll
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\bin\Debug\net6.0\onebank.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.dll
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\refint\onebank.dll
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\onebank.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\27\onebank\onebank\obj\Debug\net6.0\ref\onebank.dll
